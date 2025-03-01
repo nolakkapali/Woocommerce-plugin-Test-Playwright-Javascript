@@ -61,6 +61,8 @@ Multiple types of testing are performed in all the website functionalities as we
 <li><b>Order API:</b> Similar to Cutomer API but this API deals with the customer orders and these order data were viewed,created,updated and deleted through GET,POST,PUT/PATCH,DELETE http methods.</li><br>
 <li><b>Product API:</b> Similar to order API but this API focuses on the Shop products data and product data were viewed,created,updated and deleted through GET,POST,PUT/PATCH,DELETE http methods.</li>
 </ol>
+<br>
+</li>
 <b><li>Smoke Testing:</b>In all the necessary functionalities are included in smoke test file and to run the specific smoke test file below command is generated in the terminal<br>
 
 `npx playwright test ***file_name*** --project=***Device option from config file*** --headed`
@@ -149,18 +151,9 @@ After completeing all the tests on playwright,third party reporter such as Allur
 <br>
 </ul>
 
-
 ***Generated Allure Reports For:***
 1) Each module functional test<br>
 2) Smoke test<br>
 3) Full regression test<br>
 4) Compatibility test <br>
 4) Complete end to end test
-
-## Integrate with Jenkins
-Jenkins is a CI/CD tool.<br>
-#### Documentation
-[Playwright with Jenkins](https://playwright.dev/docs/ci) <br>
-[Playwright Command Line]( https://playwright.dev/docs/test-cli)
-
-
