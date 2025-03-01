@@ -1,0 +1,41 @@
+{
+  id: 42,
+  date_created: '2025-03-01T11:53:22',
+  date_created_gmt: '2025-03-01T11:53:22',
+  date_modified: '2025-03-01T11:53:23',
+  date_modified_gmt: '2025-03-01T11:53:23',
+  email: 'dia@gmail.com',
+  first_name: 'Diasha',
+  last_name: 'Dimsom',
+  role: 'customer',
+  username: 'Diasha.Dimsom',
+  billing: {
+    first_name: 'Dia',
+    last_name: 'Dim',
+    company: '',
+    address_1: '969 Market',
+    address_2: '',
+    city: 'San Francisco',
+    postcode: '9111233',
+    country: 'USA',
+    state: 'TX',
+    email: 'diadim@gmail.com',
+    phone: '(555) 777-6534'
+  },
+  shipping: {
+    first_name: 'Dia',
+    last_name: 'Dim',
+    company: '',
+    address_1: '969 Market',
+    address_2: '',
+    city: 'San Francisco',
+    postcode: '9111233',
+    country: 'USA',
+    state: 'TX',
+    phone: ''
+  },
+  is_paying_customer: false,
+  avatar_url: 'https://secure.gravatar.com/avatar/738203757eec42c2fcf10e62c659b0a7?s=96&d=mm&r=g',
+  _links: { self: [ [Object] ], collection: [ [Object] ] }
+}
+42

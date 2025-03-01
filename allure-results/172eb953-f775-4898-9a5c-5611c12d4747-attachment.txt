@@ -1,0 +1,40 @@
+{
+  id: 23,
+  date_created: '2025-02-08T17:32:00',
+  date_created_gmt: '2025-02-08T17:32:00',
+  date_modified: '2025-02-08T17:32:00',
+  date_modified_gmt: '2025-02-08T17:32:00',
+  email: '12SAAAAMM*Mcin@yahoo.com',
+  first_name: '',
+  last_name: '',
+  role: 'customer',
+  username: '12saaaammmcin',
+  billing: {
+    first_name: '',
+    last_name: '',
+    company: '',
+    address_1: '',
+    address_2: '',
+    city: '',
+    postcode: '',
+    country: '',
+    state: '',
+    email: '',
+    phone: ''
+  },
+  shipping: {
+    first_name: '',
+    last_name: '',
+    company: '',
+    address_1: '',
+    address_2: '',
+    city: '',
+    postcode: '',
+    country: '',
+    state: '',
+    phone: ''
+  },
+  is_paying_customer: false,
+  avatar_url: 'https://secure.gravatar.com/avatar/519e275594117ab5973635e30e5b348e?s=96&d=mm&r=g',
+  _links: { self: [ [Object] ], collection: [ [Object] ] }
+}
