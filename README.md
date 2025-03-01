@@ -157,3 +157,8 @@ After completeing all the tests on playwright,third party reporter such as Allur
 3) Full regression test<br>
 4) Compatibility test <br>
 4) Complete end to end test
+
+<br>
+Allure Report: Open [ClaypotStore Allure Report.mhtml]("https://github.com/nolakkapali/Woocommerce-plugin-Test-Playwright-Javascript/blob/main/ClaypotStore%20Allure%20Report.mhtml")
+
+
